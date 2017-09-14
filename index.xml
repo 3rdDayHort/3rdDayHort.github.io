@@ -8,5 +8,33 @@
     <language>en-us</language>
     <atom:link href="http://example.com/index.xml" rel="self" type="application/rss+xml" />
     
+    <item>
+      <title>Contact</title>
+      <link>http://example.com/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/contact/</guid>
+      <description>
+
+&lt;h1 id=&#34;don-t-be-afraid-to-get-our-hands-dirty&#34;&gt;Don&amp;rsquo;t be afraid to get our hands dirty!&lt;/h1&gt;
+
+&lt;p&gt;We can help with simple consultation, installation or maintenance of any landscape. Let us create our next floral masterpiece in front of your business!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://example.com/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/projects/</guid>
+      <description>
+
+&lt;h1 id=&#34;see-our-work&#34;&gt;See our work&lt;/h1&gt;
+
+&lt;p&gt;We work very hard to make sure our plants look the best in town!&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
