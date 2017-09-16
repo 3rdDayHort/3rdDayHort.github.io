@@ -2,15 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/contact/</loc>
+    <loc>https://3rddayhort.github.io/contact/</loc>
   </url>
   
   <url>
-    <loc>http://example.com/projects/</loc>
+    <loc>https://3rddayhort.github.io/projects/</loc>
   </url>
   
   <url>
-    <loc>http://example.com/</loc>
+    <loc>https://3rddayhort.github.io/</loc>
     <priority>0</priority>
   </url>
   
